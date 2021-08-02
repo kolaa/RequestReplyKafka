@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "kafka.bootstrap-servers",
+      "type": "java.lang.String",
+      "description": "Description for kafka.bootstrap-servers."
+    },
+    {
+      "name": "kafka.topic.request-topic",
+      "type": "java.lang.String",
+      "description": "Description for kafka.topic.request-topic."
+    },
+    {
+      "name": "kafka.topic.requestreply-topic",
+      "type": "java.lang.String",
+      "description": "Description for kafka.topic.requestreply-topic."
+    },
+    {
+      "name": "kafka.consumergroup",
+      "type": "java.lang.String",
+      "description": "Description for kafka.consumergroup."
+    }
+  ] }
